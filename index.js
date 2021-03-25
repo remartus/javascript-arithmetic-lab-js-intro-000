@@ -25,7 +25,7 @@ function increment(n){
 
 //decrement
 function decrement(n){
-  return --n
+  --n
 }
 
 //makeInt
