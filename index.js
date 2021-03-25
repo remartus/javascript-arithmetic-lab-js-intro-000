@@ -20,10 +20,12 @@ function divide(x, y){
 
 //increment
 function increment(n){
-  return n + 1
+  return ++n
 }
 
 //decrement
 function decrement(n){
-  return n - 1
+  return --n
 }
+
+//makeInt
